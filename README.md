@@ -1,4 +1,4 @@
-данные репозиторий является фронтедом для проекта https://github.com/UncleFyzruk/websocket_msg
+Данный репозиторий является фронтедом для проекта https://github.com/UncleFyzruk/websocket_msg
 
 # React + Vite
 
