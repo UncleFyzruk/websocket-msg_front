@@ -1,0 +1,17 @@
+.message-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.message-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.message-left .ant-card {
+  background-color: #f5f5f5; /* Цвет для сообщений друга */
+}
+
+.message-right .ant-card {
+  background-color: #e6f7ff; /* Цвет для ваших сообщений */
+}
